@@ -1,0 +1,13 @@
+ES_ID,ES,Key_Months,RO_-2,RO_-1,RO_0,RO_1,RO_2,Comments
+1,Hydroelectricity,"9, 10, 11, 12, 1, 2",-2,-1,0,1,2,Uses AC-S score for RoR hydro
+2,Farmed fish,"6, 7, 8",0,0,0,0,0,
+3,Whisky,"6, 7, 8",-2,-1,0,1,2,
+4,Agricultural irrigation,"6, 7, 8",-2,-1,0,1,2,
+5,Drinking water,"6, 7, 8",-1,0,0,0,1,
+6,Dilution and dispersal of sewage discharges,"6, 7, 8",-1,0,0,0,1,
+7,Dilution and dispersal of discharges from whisky,"6, 7, 8",-2,-1,0,1,2,
+8,Dilution and dispersal of fish farm discharges,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",-1,0,0,0,1,
+9,Habitat for iconic wildlife,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",-2,-1,0,-1,-2,Assumes any change is bad (as in Becky's spreadsheet)
+10,Recreational fishing,"3, 4, 5, 9, 10, 11",0,0,0,0,0,
+11,"Swimming, diving, surfing","6, 7, 8, 9, 10, 11",-1,0,0,0,-1,Assumes any change is bad (as in Becky's spreadsheet)
+12,"Kayaking, sailing, boating","6, 7, 8, 9, 10, 11",0,0,0,0,0,
