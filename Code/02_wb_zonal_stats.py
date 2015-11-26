@@ -7,7 +7,7 @@
 #
 # Created:     20/01/2015
 # Copyright:   (c) James Sample and JHI, 2015
-# Licence:     <your licence>
+# License:     https://github.com/JamesSample/ecosystem_services_impacts/blob/master/LICENSE
 #------------------------------------------------------------------------------
 """ Takes the output from 01_es_lu_cc.py and performs zonal statistics for each
     of SEPA's nested water bodies.

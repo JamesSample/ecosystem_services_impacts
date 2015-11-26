@@ -6,6 +6,7 @@
 #
 # Created:     14/01/2015
 # Copyright:   (c) James Sample and JHI, 2015
+# License:     https://github.com/JamesSample/ecosystem_services_impacts/blob/master/LICENSE
 #------------------------------------------------------------------------------
 """ Processes the Future Flows (FF) climate data and estimate climate and land 
     use change effects on Ecosystem Services (ES). Reads workshop outputs and

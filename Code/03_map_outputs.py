@@ -6,6 +6,7 @@
 #
 # Created:     
 # Copyright:   (c) James Sample and JHI, 2015
+# License:     https://github.com/JamesSample/ecosystem_services_impacts/blob/master/LICENSE
 #------------------------------------------------------------------------------
 """ Takes outputs from 02_wb_zonal_stats.py and uses them to produce sets of
     maps showing (i) median modelled impact on each ecosystem service and (ii)
